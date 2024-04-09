@@ -2,6 +2,7 @@ import React from 'react';
 import './Profile.module.css';
 import gate from "../../assets/images/gate.jpeg";
 import s from "./Profile.module.css"
+import {MyPosts} from "./MyPosts/MyPosts";
 
 export const Profile = () => {
     return (
@@ -12,20 +13,7 @@ export const Profile = () => {
             <div>
                 ava + description
             </div>
-            <div>
-                my posts
-                <div>
-                    new post
-                </div>
-                <div className={s.posts}>
-                    <div className={s.item}>
-                        post 1
-                    </div>
-                    <div className={s.item}>
-                        post 2
-                    </div>
-                </div>
-            </div>
+            <MyPosts/>
         </div>
     );
 };
