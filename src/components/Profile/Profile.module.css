@@ -1,0 +1,9 @@
+.content {
+    grid-area: content;
+    background-color: #757575;
+}
+
+.item {
+    color: burlywood;
+    text-decoration: none;
+}
