@@ -24,3 +24,8 @@ ul li {
     grid-auto-columns: 2fr 10fr;
     grid-gap: 10px;
 }
+
+.app-wrapper-content {
+    grid-area: content;
+    background-color: #757575;
+}
