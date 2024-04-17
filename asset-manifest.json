@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-way-main/static/css/main.90748929.css",
+    "main.js": "/react-way-main/static/js/main.94c70498.js",
+    "static/media/gate.jpeg": "/react-way-main/static/media/gate.0b1e301cb47e5c2d3beb.jpeg",
+    "static/media/logo.png": "/react-way-main/static/media/logo.c52d257fe3909ee0f8e2.png",
+    "index.html": "/react-way-main/index.html",
+    "main.90748929.css.map": "/react-way-main/static/css/main.90748929.css.map",
+    "main.94c70498.js.map": "/react-way-main/static/js/main.94c70498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90748929.css",
+    "static/js/main.94c70498.js"
+  ]
+}
