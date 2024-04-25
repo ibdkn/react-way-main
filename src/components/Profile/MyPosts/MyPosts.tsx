@@ -8,7 +8,8 @@ export const MyPosts = () => {
         <div>
             my posts
             <div>
-                new post
+                <input type="text"/>
+                <button>Add post</button>
             </div>
             <div className={s.posts}>
                 <Post message="Hi, how are you?"/>
